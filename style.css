@@ -1,0 +1,44 @@
+body {
+    background-color: blanchedalmond;
+    width: 70%;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1,
+h2,
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 1.5em;
+    margin-bottom: 1em;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+th {
+    text-align: center;
+}
+
+caption {
+    caption-side: bottom;
+    font-style: italic;
+    text-align: left;
+}
+
+figure {
+    float: right;
+    margin: 10px 10px 10px 0;
+}
+
+figcaption {
+    font-style: italic;
+}
