@@ -36,9 +36,12 @@ caption {
 
 figure {
     float: right;
-    margin: 10px 10px 10px 0;
+    margin: 0px 10px 10px 10px;
 }
 
 figcaption {
     font-style: italic;
+}
+span {
+    font-size: larger;
 }
