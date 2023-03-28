@@ -1,9 +1,10 @@
 body {
     background-color: blanchedalmond;
     width: 70%;
-    text-align: left;
+    text-align: justify;
     margin-left: auto;
     margin-right: auto;
+    
 }
 
 h1,
@@ -36,7 +37,7 @@ caption {
 
 figure {
     float: right;
-    margin: 0px 10px 10px 10px;
+    margin: 0px 10px 10px 20px;
 }
 
 figcaption {
@@ -44,4 +45,8 @@ figcaption {
 }
 span {
     font-size: larger;
+}
+
+p {
+    text-indent: 1.5em;
 }
