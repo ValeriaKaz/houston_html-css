@@ -4,7 +4,6 @@ body {
     text-align: justify;
     margin-left: auto;
     margin-right: auto;
-    
 }
 
 h1,
@@ -25,6 +24,10 @@ td {
     border: 1px solid black;
 }
 
+tr:hover {
+    background-color: rgb(194, 149, 190);
+}
+
 th {
     text-align: center;
 }
@@ -43,10 +46,18 @@ figure {
 figcaption {
     font-style: italic;
 }
+
 span {
     font-size: larger;
+    font-weight: bold;
 }
 
 p {
     text-indent: 1.5em;
+}
+
+div {
+    background-color: rgb(253, 225, 164);
+    padding-left: 1em;
+    padding-right: 1em;
 }
